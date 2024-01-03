@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/youtube-project/static/css/main.1d23b3a8.css",
-    "main.js": "/youtube-project/static/js/main.4d7d0f7d.js",
+    "main.css": "/youtube-project/static/css/main.fbf90c9b.css",
+    "main.js": "/youtube-project/static/js/main.8de76a88.js",
     "static/js/27.9380ec74.chunk.js": "/youtube-project/static/js/27.9380ec74.chunk.js",
     "index.html": "/youtube-project/index.html"
   },
   "entrypoints": [
-    "static/css/main.1d23b3a8.css",
-    "static/js/main.4d7d0f7d.js"
+    "static/css/main.fbf90c9b.css",
+    "static/js/main.8de76a88.js"
   ]
 }
